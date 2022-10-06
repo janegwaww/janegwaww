@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tiglapiles
+- 👋 Hi, I’m @janegwaww
 - 👀 I’m interested in Front-end, Game Develop, and Lisp.
 - 🌱 I’m currently learning Lisp.
 - 💞️ I’m looking to collaborate on Game Development.
