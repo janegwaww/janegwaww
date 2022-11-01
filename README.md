@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @janegwaww
-- 👀 I’m interested in Front-end, Game Develop, and Lisp.
-- 🌱 I’m currently learning Lisp.
-- 💞️ I’m looking to collaborate on Game Development.
-- 📫 How to reach me : tiglapiles@gmail.com
+- 👀 I’m interested in Front-end, and Lisp.
+- 🌱 I’m currently learning CommonLisp.
+- 💞️ I’m looking to collaborate on Software Development.
+- 📫 How to reach me : [tiglapiles@gmail.com](mailto:tiglapiles@gmail.com)
 - 👀 Personal Site : [www.janegwaww.com](https://www.janegwaww.com)
 
 <!---
