@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janegwaww
-- 👀 I’m interested in Front-end, C++ and Lisp.
-- 🌱 I’m currently learning Common-Lisp, CLOG.
+- 👀 I’m interested in Front-end, FP and Lisp.
+- 🌱 I’m currently learning Common-Lisp, Haskell.
 - 💞️ I’m looking to collaborate on Software Development.
 - 📫 How to reach me : [tiglapiles@gmail.com](mailto:tiglapiles@gmail.com)
 - 👀 Personal Site : [www.janegwaww.com](https://www.janegwaww.com)
